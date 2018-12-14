@@ -1,12 +1,4 @@
-# Do Learn Docker and Kubernetes
-
-## curriculum
-
-### Index
-
-1. [Week 1](#Week1)
-2. [Week 2](#Week2)
-3. [Week 3](#Week2)
+## 커리큘럼
 
 ### Week 1
 
