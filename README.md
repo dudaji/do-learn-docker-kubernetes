@@ -31,6 +31,8 @@ https://www.katacoda.com/courses/docker/3
 
 ### Week 2
 
+kubernetes docs & interective tutorial
+
 #### day 1
 
 persisting data using volumes  
@@ -59,6 +61,8 @@ https://www.katacoda.com/courses/kubernetes/creating-kubernetes-yaml-definitions
 ---
 
 ### Week 3
+
+kubernetes network & concepts
 
 #### day 1
 
