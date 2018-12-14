@@ -1,5 +1,3 @@
-## 커리큘럼
-
 ### Week 1
 
 Docker Docs
